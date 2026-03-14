@@ -1,0 +1,18 @@
+/.cache
+/.idea
+/.venv
+/.vscode
+/azure dark
+/build
+/dist
+/fixem.iss
+/main.spec
+/main02.py
+/main03.py
+/main4.py
+/Output
+/readme.txt
+/venv
+/__beautify.csv
+/__pycache__
+.env

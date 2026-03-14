@@ -1,0 +1,7 @@
+pytaglib
+python-dotenv
+pytaglib
+darkdetect
+pandas
+xlsxwriter
+librosa
